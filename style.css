@@ -1,0 +1,45 @@
+h2{
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(152, 239, 239);
+    align-items: center;
+    margin-left: 40%;
+
+}
+label{
+    margin: 0 auto;
+    color: black;
+    font-weight: bold;
+
+}
+input{
+    width: 40%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: solid coral;
+    border-radius: 5px;
+    padding-left: 0 ;
+
+
+}
+button{
+
+    width: 20%;
+    padding: 10px;
+    background-color: rgb(3, 5, 5);
+    color: aqua;
+    border-radius: 5px;
+    font-size: 20px;
+    align-items: center;
+
+}
+div{
+    width: 40%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding-left: 0 ;
+
+}
